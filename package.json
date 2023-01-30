@@ -1,0 +1,18 @@
+{
+  "name": "vscode-extension-emulator",
+  "version": "0.1.0",
+  "description": "A compatibility layer between VSCode extensions and other code editors.",
+  "main": "dist/src/index.js",
+  "types": "vscode/vscode-dts/vscode.d.ts",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "tsc"
+  },
+  "author": "dragonDScript",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "@types/vscode": "^1.74.0",
+    "typescript": "^4.9.4"
+  }
+}
