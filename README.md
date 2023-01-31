@@ -1,4 +1,4 @@
-# 🎃 VSCode-ECL
+# 🎃 VSCode-Extension-Runtime
 
 This is a VSCode compatibility layer that lets you run VSCode extensions inside other IDEs.
 
