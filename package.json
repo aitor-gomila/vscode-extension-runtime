@@ -1,0 +1,32 @@
+{
+  "name": "vscode-extension-runtime",
+  "version": "0.1.0",
+  "description": "A compatibility layer between VSC extensions and other IDEs.",
+  "main": "dist/require_intercept.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragonDScript/vscode-ecl.git"
+  },
+  "keywords": [
+    "vscode",
+    "extension",
+    "compatibility",
+    "layer",
+    "vsc",
+    "code"
+  ],
+  "author": "dragonDScript",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dragonDScript/vscode-ecl/issues"
+  },
+  "homepage": "https://github.com/dragonDScript/vscode-ecl#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "@types/vscode": "^1.74.0",
+    "typescript": "^4.9.5"
+  }
+}
