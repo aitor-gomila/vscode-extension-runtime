@@ -1,3 +1,3 @@
-import './require_intercept';
+import "./require_intercept";
 
 require(process.argv[1]);
