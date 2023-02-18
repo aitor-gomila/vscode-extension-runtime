@@ -27,14 +27,9 @@ Extension host runs each extension in a separate process, and communicates the e
 
 VSC-ECL is just a middleman between the extension and the IDE. Instead of displaying a GUI, and sending all that info to the GUI so it's rendered, it's sent to the IDE and I get to forget about it!
 
-
 ## 🛠️ Implement on your own code editor
 
-
-
 ## 🙌 Contribution guide
-
-
 
 ## 📡 Get in touch
 
